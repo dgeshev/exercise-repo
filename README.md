@@ -2,5 +2,4 @@
 conflicting changes 
 conflicts are coming :D
 
-hello, branch O-O
-               o
+hello, master again ;)
