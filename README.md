@@ -1,4 +1,4 @@
 # exercise-repo
 
 
-conflicts are comming :D
+conflicts are coming :D
